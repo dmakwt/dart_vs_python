@@ -5,9 +5,10 @@ height = 174.5
 likesPizza = True
 
 print(name)
-print(age)
-print(height)
-print(likesPizza)
+
+name = "Alenezi"
+
+print(name)
 
 
 # Conditionals
